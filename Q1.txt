@@ -1,0 +1,1 @@
+as window size increases we detect R-signal more precisely so N=25 is best choice
